@@ -1,0 +1,22 @@
+{
+  "channels": [
+    {
+      "name": "#proj-alpha",
+      "messages_24h": 143,
+      "unreplied_asks": 7,
+      "after_hours_pct": 28,
+      "top_theme": "handoff confusion"
+    },
+    {
+      "name": "#eng-help",
+      "messages_24h": 61,
+      "unreplied_asks": 2,
+      "after_hours_pct": 12,
+      "top_theme": "flaky tests"
+    }
+  ],
+  "risks": [
+    "#proj-alpha: high churn on requirements",
+    "#eng-help: persistent flaky tests"
+  ]
+}

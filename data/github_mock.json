@@ -1,0 +1,14 @@
+{
+  "repos": [
+    {
+      "name": "mentorsvc",
+      "open_prs": 5,
+      "stale_branches": 2
+    },
+    {
+      "name": "frontend",
+      "open_prs": 3,
+      "stale_branches": 1
+    }
+  ]
+}
