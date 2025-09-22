@@ -78,7 +78,7 @@ MentorVista/
 <img src="./assets/AI_Coach.png" alt="AI Coach" width="600"/>
 -->
 
-![AI Coach](./assets/AI_Coach.png)
+![AI Coach](./assets/AI_coach.png)
 
 ### Matching Questions to Company Policies
 
