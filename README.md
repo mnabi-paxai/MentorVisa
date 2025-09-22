@@ -8,6 +8,9 @@ Policy-grounded coaching for managers with an operations dashboard and simple ag
 ![Alt text](./assets/summary_image.png)
 -->
 
+## MentorVista's Vision
+MentorVista’s vision is to become the world’s Leadership Engine, the operating system for managers that combines AI coaching, execution support, and predictive insights to transform leadership development and human capital strategy at scale.
+
 ## Quickstart
 
 ```bash
