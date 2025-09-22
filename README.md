@@ -73,12 +73,12 @@ MentorVista/
 - The Coach cites the top relevant snippets with **[doc_id › section]** style.
 - Toggle **Strict policy mode** on the Coach page to refuse actions without a matching policy reference.
 
-## Mock Integrations
-
-- Slack and GitHub data are mocked via JSON files in `data/`. Replace with real connectors later.
-- See `services/connectors.py` for placeholders and feature flags.
-
 ## Main MVP - AI Coach
+<!--
+<img src="./assets/AI_Coach.png" alt="AI Coach" width="600"/>
+-->
+
+![AI Coach](./assets/AI_Coach.png)
 
 ### Matching Questions to Company Policies
 
@@ -102,7 +102,23 @@ That keeps noise out of the LLM context.
 
 - **Try these examples** 
 
+## People Page
+ppl
+
+![People Page](./assets/ppl.png)
+
+## Tasks Page
+
+
+![Tasks Page](./assets/tasks.png)
+
+## AI Agents 
+
+![AI Agents](./assets/AI_agents.png)
+
 
 ## Notes
 - This scaffold avoids external writes (no posting back to Slack/GitHub).
 - Keep actual company policies private; replace the demo docs with your own and re-run.
+- Slack and GitHub data are mocked via JSON files in `data/`. Replace with real connectors later.
+- See `services/connectors.py` for placeholders and feature flags.

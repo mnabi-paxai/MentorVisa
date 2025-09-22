@@ -79,7 +79,7 @@ if api_key:
 # =========================
 # Layout: widen chat column
 # =========================
-col_in, col_meta = st.columns([7, 2], gap="large")
+col_in, col_meta = st.columns([5, 2], gap="large")
 
 with col_in:
     # -------------------------
