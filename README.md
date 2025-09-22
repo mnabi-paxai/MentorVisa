@@ -6,6 +6,10 @@ MentorVista is an AI-first leadership operating system for middle managers, grou
 
 File is available here: [MentorVista Investment Memo](https://drive.google.com/drive/folders/1sQG7epXyBiepEbmqmlICsUXoJRvYasJj?usp=sharing)
 
+<iframe src="https://docsend.com/view/ehzrt4xs3p63c5ip" allow="fullscreen" width="640" height="480"></iframe>
+
+
+https://docsend.com/view/hztcxxdqj5rzukw5
 
 
 <img src="./assets/summary_image.png" alt="Summary of MentorVista" width="600"/>
@@ -64,6 +68,9 @@ MentorVista/
   │   └─ policies/
   │       ├─ mentorvista_perf_mgmt.md
   │       └─ mentorvista_timeoff.md
+  │       └─ mentorvista_people_policies.md
+  │       └─mentorvista_security_compliance_policies.md
+  │
   ├─ .streamlit/
   │   ├─ config.toml
   │   └─ secrets.toml  # (template)
