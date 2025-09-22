@@ -21,6 +21,7 @@ MentorVista’s vision is to become the world’s Leadership Engine, the operati
 
 ```bash
 # 1) Clone the repo 
+git clone https://github.com/your-org/MentorVista.git
 cd "address"
 
 # 2) Create & activate a virtual environment (optional but recommended)
