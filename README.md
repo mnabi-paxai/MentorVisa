@@ -95,6 +95,9 @@ We take the best few (`top_k=4`) and keep only those above a small `min_score` (
 That keeps noise out of the LLM context. 
 
 ### OpenAI Integration 
+- **Add OpenAI API keys on AI Coach Page** 
+
+- **Try these examples** 
 
 
 ## Notes
