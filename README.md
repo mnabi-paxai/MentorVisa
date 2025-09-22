@@ -4,14 +4,20 @@ MentorVista is an AI-first leadership operating system for middle managers, grou
 
 ## Investment Memo
 
-[View the document on Docsend](https://docsend.com/view/ehzrt4xs3p63c5ip)
+
+[View the document on Google Drive](https://drive.google.com/drive/folders/1sQG7epXyBiepEbmqmlICsUXoJRvYasJj?usp=sharing)
+
 
 <!--
+[View the document on Docsend](https://docsend.com/v/n2rzg/mentorvista)
+
+[View the document on Docsend](https://docsend.com/view/hztcxxdqj5rzukw5)
+
 File is available here: [MentorVista Investment Memo](https://drive.google.com/drive/folders/1sQG7epXyBiepEbmqmlICsUXoJRvYasJj?usp=sharing)
 
 <iframe src="https://docsend.com/view/ehzrt4xs3p63c5ip" allow="fullscreen" width="640" height="480"></iframe>
 
-https://docsend.com/view/hztcxxdqj5rzukw5
+
 -->
 
 <img src="./assets/summary_image.png" alt="Summary of MentorVista" width="600"/>
@@ -117,6 +123,9 @@ That keeps noise out of the LLM context.
 - **Add OpenAI API keys on AI Coach Page** 
 
 - **Try these examples** 
+  - What are company policies on PTO?
+  - My team moral is low. What to do?
+
 
 ## Employee Profiles
  A comprehensive digital profile for each team member, summarizing projects, responsibilities, skills, mentorship history, morale, and more, providing managers with a holistic view of their people.
