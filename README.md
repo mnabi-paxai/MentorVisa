@@ -4,7 +4,7 @@ Policy-grounded coaching for managers with an operations dashboard and simple ag
 
 ## Investment Memo
 
-[MentorVista Investment Memo](https://drive.google.com/drive/folders/1sQG7epXyBiepEbmqmlICsUXoJRvYasJj?usp=sharing)
+File is available here: [MentorVista Investment Memo](https://drive.google.com/drive/folders/1sQG7epXyBiepEbmqmlICsUXoJRvYasJj?usp=sharing)
 
 
 
