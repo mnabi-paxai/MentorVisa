@@ -1,0 +1,35 @@
+{
+  "approvals": [
+    {
+      "id": "ap_12",
+      "title": "Budget approval Q4",
+      "due": "2025-09-22",
+      "owner": "m_001",
+      "status": "open"
+    }
+  ],
+  "prs": [
+    {
+      "id": 421,
+      "title": "Refactor billing worker",
+      "assignee": "m_001",
+      "age_days": 3,
+      "status": "review_requested"
+    },
+    {
+      "id": 422,
+      "title": "Add usage metrics endpoint",
+      "assignee": "m_001",
+      "age_days": 6,
+      "status": "open"
+    }
+  ],
+  "followups": [
+    {
+      "id": "fu_9",
+      "title": "Check onboarding for new PM",
+      "owner": "m_001",
+      "due": "2025-09-20"
+    }
+  ]
+}
