@@ -11,14 +11,17 @@ Policy-grounded coaching for managers with an operations dashboard and simple ag
 ## Quickstart
 
 ```bash
-# 1) Create & activate a virtual environment (optional but recommended)
+# 1) Clone the repo 
+cd "address"
+
+# 2) Create & activate a virtual environment (optional but recommended)
 python -m venv .venv
 source ./.venv/bin/activate  # Windows: .\.venv\Scripts\activate
 
-# 2) Install dependencies
+# 3) Install dependencies
 pip install -r requirements.txt
 
-# 3) Run the app
+# 4) Run the app
 streamlit run streamlit_app.py
 ```
 
