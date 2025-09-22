@@ -2,6 +2,12 @@
 
 Policy-grounded coaching for managers with an operations dashboard and simple agents. This MVP ships with **local mock data** and a **policy retrieval** layer so all advice cites relevant HR policy snippets.
 
+## Investment Memo
+
+File is available here: [MentorVista Investment Memo](https://drive.google.com/drive/folders/1sQG7epXyBiepEbmqmlICsUXoJRvYasJj?usp=sharing)
+
+
+
 <img src="./assets/summary_image.png" alt="Summary of MentorVista" width="600"/>
 
 <!--
