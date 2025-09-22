@@ -11,6 +11,9 @@ File is available here: [MentorVista Investment Memo](https://drive.google.com/d
 
 https://docsend.com/view/hztcxxdqj5rzukw5
 
+[View the document on Docsend](https://docsend.com/view/ehzrt4xs3p63c5ip)
+
+
 
 <img src="./assets/summary_image.png" alt="Summary of MentorVista" width="600"/>
 
