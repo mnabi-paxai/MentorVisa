@@ -109,17 +109,18 @@ That keeps noise out of the LLM context.
 
 - **Try these examples** 
 
-## People Page
-ppl
+## Employee Profiles
+ A comprehensive digital profile for each team member, summarizing projects, responsibilities, skills, mentorship history, morale, and more, providing managers with a holistic view of their people.
 
 ![People Page](./assets/ppl.png)
 
-## Tasks Page
-
+## Task & Automation Dashboard
+A centralized hub for managerial tasks such as approvals (e.g., PTO, expense reports). Integrated with enterprise tools via MCP connectors, the dashboard also enables prompt-driven automation of repetitive workflows, freeing up time for higher-value work.
 
 ![Tasks Page](./assets/tasks.png)
 
 ## AI Agents 
+Visibility and control over digital colleagues. Managers can monitor active/inactive agents, assess performance, delegate tasks, and step in where human intervention is required, ensuring smooth collaboration between human and AI team members.
 
 ![AI Agents](./assets/AI_agents.png)
 
