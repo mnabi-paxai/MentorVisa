@@ -1,6 +1,6 @@
 # MentorVista – AI Coaching & Ops Dashboard (MVP)
 
-Policy-grounded coaching for managers with an operations dashboard and simple agents. This MVP ships with **local mock data** and a **policy retrieval** layer so all advice cites relevant HR policy snippets.
+MentorVista is an AI-first leadership operating system for middle managers, grounded in company policies and compliant with top data privacy and security standards. It delivers real-time coaching, team and task visibility, and automation to help managers resolve challenges and drive performance with always-on, personalized support.
 
 ## Investment Memo
 
