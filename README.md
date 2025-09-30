@@ -41,7 +41,7 @@ python -m venv .venv
 source ./.venv/bin/activate  # Windows: .\.venv\Scripts\activate
 
 # 3) Install dependencies
-pip install -r requirements.txt
+pip install -r requirements.txt ---- pip install streamlit
 
 # 4) Run the app
 streamlit run streamlit_app.py
